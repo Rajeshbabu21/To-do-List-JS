@@ -40,10 +40,7 @@ for(let i = 0;i<arr.length;i++)
 
   
   
-  "
-  
-  >delete</button>
-   `;
+  ">delete</button>`;
 
    // used to combine the html
   todos += html;
